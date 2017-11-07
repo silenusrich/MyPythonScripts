@@ -1,0 +1,1 @@
+@py.exe C:\MyPythonScripts\pythonScripts.py %*
